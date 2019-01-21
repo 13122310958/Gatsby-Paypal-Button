@@ -12,7 +12,7 @@ npm install --save gatsby-paypal-button
 ## Simplest Example (with minimum set of parameters, this will use the "sandbox" environment)
 
 ```javascript
-import PaypalExpressBtn from 'react-paypal-express-checkout';
+import PaypalExpressBtn from 'gatsby-paypal-button';
 
 export default class MyApp extends React.Component {
 	render() {
@@ -31,7 +31,7 @@ export default class MyApp extends React.Component {
 
 ```javascript
 import React from 'react';
-import PaypalExpressBtn from 'react-paypal-express-checkout';
+import PaypalExpressBtn from 'gatsby-paypal-button';
 
 export default class MyApp extends React.Component {
     render() {
