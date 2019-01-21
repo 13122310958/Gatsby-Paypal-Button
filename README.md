@@ -4,7 +4,7 @@ A Gatsby friendly React component that renders Paypal's express check out button
 ## Install
 
 ```bash
-npm install --save Gatsby-Paypal-Button
+npm install --save gatsby-paypal-button
 ```
 
 ## Usage
