@@ -1,5 +1,5 @@
 {
-    "name": "Gatsby-Paypal-Button",
+    "name": "gatsby-paypal-button",
     "version": "1.0.5",
     "description": "Gatsby React component that renders Paypal's express check out button",
     "repository": {
