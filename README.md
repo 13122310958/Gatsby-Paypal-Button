@@ -1,15 +1,10 @@
-# react-paypal-express-checkout
-React component that renders Paypal's express check out button
+# Gatsby-Paypal-Button
+A Gatsby friendly React component that renders Paypal's express check out button
 
 ## Install
 
 ```bash
-npm install --save react-paypal-express-checkout
-```
-
-or
- ```bash
-yarn add react-paypal-express-checkout
+npm install --save Gatsby-Paypal-Button
 ```
 
 ## Usage
