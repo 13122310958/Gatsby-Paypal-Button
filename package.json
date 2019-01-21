@@ -1,18 +1,19 @@
 {
-    "name": "react-paypal-express-checkout",
+    "name": "Gatsby-Paypal-Button",
     "version": "1.0.5",
-    "description": "React component that renders Paypal's express check out button",
+    "description": "Gatsby React component that renders Paypal's express check out button",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thinhvo0108/react-paypal-express-checkout.git"
+        "url": "https://github.com/dderooy/Gatsby-Paypal-Button.git"
     },
     "author": "Thinh Vo <thinhvo0108@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/thinhvo0108/react-paypal-express-checkout/issues"
+        "url": "https://github.com/dderooy/Gatsby-Paypal-Button/issues"
     },
-    "homepage": "https://github.com/thinhvo0108/react-paypal-express-checkout",
+    "homepage": "https://github.com/dderooy/Gatsby-Paypal-Button",
     "keywords": [
+        "Gatsby",
         "react-component",
         "react",
         "react-paypal",
